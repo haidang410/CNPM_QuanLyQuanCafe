@@ -1,0 +1,8 @@
+Nhớ Thêm 1 Bàn 21 ở torng table Bàn
+
+Nên Design lại form Mang Về ( vì t thiết kế theo mì ăn liền )
+
+Sắp xếp code lại sao cho nhóm b cảm thấy gọn
+
+Quan Trọng:
+Tìm cách ẩn nút bàn 21

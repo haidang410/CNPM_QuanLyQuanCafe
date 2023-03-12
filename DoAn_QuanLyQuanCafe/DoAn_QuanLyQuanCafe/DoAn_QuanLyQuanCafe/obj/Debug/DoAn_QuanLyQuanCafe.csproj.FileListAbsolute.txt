@@ -1,0 +1,201 @@
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\congb\source\repos\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fMenu.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fMenu.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fMenu.resources
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\HP\Desktop\Bài Tập\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fMenu.resources
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\HP\Desktop\Bài Tập\C#\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fMenu.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\congb\Downloads\Compressed\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fMenu.resources
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTotal.resources
+C:\Users\bossr\Downloads\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fFood.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fFood.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fMenu.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTotal.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\HP\Desktop\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fHomeManager.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe.config
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\EntityFramework.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\System.Data.SQLite.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\stdole.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\EntityFramework.xml
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\System.Data.SQLite.xml
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fAdmin.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fFood.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fHomeManager.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fLogin.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fMenu.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTableManager.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.fTotal.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.exe
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.pdb
+C:\Users\congb\Downloads\Documents\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\DoAn_QuanLyQuanCafe\obj\Debug\DoAn_QuanLyQuanCafe.csproj.AssemblyReference.cache
